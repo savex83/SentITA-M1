@@ -10,6 +10,6 @@ setup(name='sentita',
       packages=find_packages(),
       include_package_data=True,
       install_requires=[
-          'tensorflow', 'spacy', 'numpy',
+          'tensorflow-metal', 'tensorflow-macos', 'spacy', 'numpy',
       ],
       zip_safe=False)
