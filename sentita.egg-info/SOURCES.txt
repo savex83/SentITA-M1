@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+sentita/__init__.py
+sentita/singleton.py
+sentita/wemb_ind.pkl
+sentita.egg-info/PKG-INFO
+sentita.egg-info/SOURCES.txt
+sentita.egg-info/dependency_links.txt
+sentita.egg-info/not-zip-safe
+sentita.egg-info/requires.txt
+sentita.egg-info/top_level.txt

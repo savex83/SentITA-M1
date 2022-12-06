@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: sentita
+Version: 0.2.0
+Summary: Sentiment polarity tool for Italian
+Home-page: http://github.com/nicgian/sentita
+Author: Giancarlo Nicola
+Author-email: giancarlo.nicola01@universitadipavia.it
+License: MIT
+License-File: LICENSE
